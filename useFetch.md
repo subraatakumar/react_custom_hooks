@@ -72,6 +72,7 @@ export default Products;
 ```
 
 ```js
+// Users.js
 import React, {useState, useEffect} from 'react';
 import useFetch from "../custom_hooks/useFetch"
 
